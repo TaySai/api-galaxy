@@ -2,6 +2,7 @@ from app import app
 from flask import render_template
 from flask import request
 
+import fetch_data
 
 @app.route('/')
 @app.route('/index')
@@ -11,7 +12,11 @@ def index():
 # Return all the galaxies
 @app.route('/api/v1/galaxy/all', methods=['GET'])
 def api_v1_galaxy_all():
-    return 'all galaxies'
+    """
+    No parameter expected
+    :return: list, return all galaxies with messiers for each galaxy
+    """
+    return fetch_data.all_data()
 
 # Return information about one galaxy
 @app.route("/api/v1/galaxy/endpoint/<val>", methods=['GET'])
