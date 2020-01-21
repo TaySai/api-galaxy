@@ -26,6 +26,10 @@ def create_csv_data():
             messier['messier_surname'] = surname.replace(',', '')
             messier['messier_form'] = ' '.join(list(filter(None, [x.strip() for x in y(recursive=False, text=True)])))
 
+            r_messier = rq.get(messier['messier_link'])
+
+            soup_messier = bs(r_messier.content, 'html.parser')
+
             messier.update(row)
 
             data.append(messier)

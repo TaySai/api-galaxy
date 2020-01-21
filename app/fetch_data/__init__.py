@@ -1,2 +1,2 @@
 def all_data():
-    return ['ALL']
+    return 'all'
