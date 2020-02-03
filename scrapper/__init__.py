@@ -5,6 +5,6 @@ import csv_form
 # json_form.create_json_data()
 
 # To create csv uncomment line 11 and run script
-# csv_form.create_csv_data()
+csv_form.create_csv_data()
 
 # peace

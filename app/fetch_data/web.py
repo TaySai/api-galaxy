@@ -1,5 +1,4 @@
 import sqlalchemy as db
-
 import app.fetch_data as fd
 
 def get_data(galaxy, messier):
@@ -20,4 +19,3 @@ def get_data(galaxy, messier):
     res = connection.execute(query)
     cols = connection.execute(query).keys()
     return fd.sql_to_json(res, cols)
-
