@@ -5,8 +5,11 @@ Le projet est déployé à cette adresse :
 http://taysai.pythonanywhere.com/
 
 # Membres du groupe 
+
 Myriam MASMOUDI
+
 Tayeb SAIDI
+
 ASMA SEMSAR 
 
 # Description du projet
