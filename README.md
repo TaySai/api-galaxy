@@ -4,7 +4,7 @@
 Le projet est déployé à cette adresse :
 http://taysai.pythonanywhere.com/
 
-# Membres du groupe 
+## Membres du groupe 
 
 Myriam MASMOUDI
 
@@ -12,10 +12,10 @@ Tayeb SAIDI
 
 ASMA SEMSAR 
 
-# Description du projet
+## Description du projet
 API permettant l'accès à des données scientifiques extra galactiques ainsi qu'au catalogue de Messier qui recense des données scientifiques et galaxies (complétée) .
 
-# Technologies
+## Technologies
 •	Python
 
 •	Flask
@@ -24,7 +24,7 @@ API permettant l'accès à des données scientifiques extra galactiques ainsi qu
 
 •	SqlAlchemy
 
-# Procedure d'installation
+## Procedure d'installation
 
 Installer les dépendances :
 pip3 install -r requirements.txt
@@ -32,6 +32,6 @@ pip3 install -r requirements.txt
 Lancer l'application :
 python3 app.py
 
-# Sources
+## Sources
 http://messier.obspm.fr/
 
