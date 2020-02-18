@@ -5,7 +5,9 @@ PROJET DATA WEB ET API CATALOGUE DE GALAXIES
 Les noms et prénoms des membres du groupe:
 
 Myriam MASMOUDI
+
 Tayeb SAIDI
+
 Asma SEMSAR
 
 
@@ -40,7 +42,10 @@ Documentation API
 
 Les technologies pressenties pour réaliser le projet:
 Python (libraries : Flask, Requests, Pandas, SqlAlchemy, BeautifulSoup)
+
 PostgreSQL/NoSQL (pas encore décidé)
+
 Docker
+
 HTML/CSS (pas encore décidé)
 
