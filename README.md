@@ -10,10 +10,10 @@ Myriam MASMOUDI
 
 Tayeb SAIDI
 
-ASMA SEMSAR 
+Asma SEMSAR 
 
 ## Description du projet
-API permettant l'accès à des données scientifiques extra galactiques ainsi qu'au catalogue de Messier qui recense les nébuleuses et les amas d'étoiles (complété).
+Création d'une API permettant l'accès à des données scientifiques extra galactiques ainsi qu'au catalogue de Messier qui recense les nébuleuses et les amas d'étoiles (complété et amélioré).
 
 ## Technologies
 •	Python
