@@ -41,6 +41,7 @@ Avoir des données qui se rafraîchisse automatiquement chaque semaine en cas de
 Documentation API
 
 Les technologies pressenties pour réaliser le projet:
+
 Python (libraries : Flask, Requests, Pandas, SqlAlchemy, BeautifulSoup)
 
 PostgreSQL/NoSQL (pas encore décidé)
