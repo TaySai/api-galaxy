@@ -13,9 +13,9 @@ Tayeb SAIDI
 ASMA SEMSAR 
 
 # Description du projet
-API permettant d'accéder à des données scientifiques de galaxies et accessibilité au catalogue de Messier qui recense des données scientifiques et galaxies (complétée) .
+API permettant l'accès à des données scientifiques extra galactiques ainsi qu'au catalogue de Messier qui recense des données scientifiques et galaxies (complétée) .
 
-# Technologies et version
+# Technologies
 •	Python
 
 •	Flask
@@ -25,6 +25,7 @@ API permettant d'accéder à des données scientifiques de galaxies et accessibi
 •	SqlAlchemy
 
 # Procedure d'installation
+
 Installer les dépendances :
 pip3 install -r requirements.txt
 
