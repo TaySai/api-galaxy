@@ -23,7 +23,7 @@ Asma SEMSAR
 
 
 
-### L'intérêt scientifique de ces données et de votre catalogue:
+### L'intérêt scientifique de ces données et de notre catalogue:
 
 * Réalisation d’un inventaire à données scientifiques relatives aux objets célestes(protoplanète, disques de débris, associations stellaires..)
 * Population améliorée (tout le système solaire ou extrasolaire)
@@ -31,10 +31,10 @@ Asma SEMSAR
 * Regroupement avec les autres sources de données scientifiques (anciennes ou actuelles) que ça soit des bibliothèques virtuelles ou des communauté scientifiques sur les réseaux digitaux.
 
 
-### Les fonctionnalités minimales de votre outil de consultation:
+### Les fonctionnalités minimales de notre outil de consultation:
 * Retourne des informations sur chaque galaxie/messier et autres objets célestes
 
-### Les fonctionnalités idéales de votre outil: 
+### Les fonctionnalités idéales de notre outil: 
 * Avoir une interface web pour amateur (collégien/lycéen/technophobe…)
 * Avoir une interface de programmation avancé qui retourne du json/xml pour (universitaire/chercheurs…)
 * Avoir des données qui se rafraîchisse automatiquement chaque semaine en cas de modifications
