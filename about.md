@@ -42,11 +42,11 @@ Asma SEMSAR
 
 ### Les technologies pressenties pour réaliser le projet:
 
-*Python (libraries : Flask, Requests, Pandas, SqlAlchemy, BeautifulSoup)
+* Python (libraries : Flask, Requests, Pandas, SqlAlchemy, BeautifulSoup)
 
-*PostgreSQL/NoSQL (pas encore décidé)
+* PostgreSQL/NoSQL (pas encore décidé)
 
-*Docker
+* Docker
 
-*HTML/CSS (pas encore décidé)
+* HTML/CSS (pas encore décidé)
 
